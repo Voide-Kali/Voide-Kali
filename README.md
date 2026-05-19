@@ -34,7 +34,7 @@ currently:   "Building cool stuff"
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
 
@@ -55,17 +55,7 @@ currently:   "Building cool stuff"
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Voide-Kali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&cache_seconds=1800"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voide-Kali&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Voide-Kali&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353)](https://git.io/streak-stats)
 
