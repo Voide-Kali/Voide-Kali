@@ -56,6 +56,7 @@ currently:   "Building cool stuff"
 ---
 
 ### GitHub Stats
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Voide-Kali&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353)](https://git.io/streak-stats)
 
