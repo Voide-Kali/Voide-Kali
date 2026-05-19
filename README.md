@@ -59,8 +59,9 @@ currently:   "Building cool stuff"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Voide-Kali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voide-Kali&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Voide-Kali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voide-Kali&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&cache_seconds=1800"/>
 
 </div>
 
