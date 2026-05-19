@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Voide-Kali&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20Always%20building%20something&descAlignY=60&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:1a3a2e&height=200&section=header&text=Voide&fontSize=60&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20Always%20building%20something&descAlignY=60&descColor=8b949e"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Backend+%26+Full+Stack+Developer;C%23+%2F+.NET+enthusiast;Python+%7C+JavaScript+%7C+TypeScript;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&random=false&width=500&lines=Backend+%26+Full+Stack+Developer;C%23+%2F+.NET+enthusiast;Python+%7C+JavaScript+%7C+TypeScript;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 ### 👾 About me
 
 \`\`\`yaml
-name: Voide-Kali
+name: Voide
 focus:
   - Backend Development
   - Full Stack Development
@@ -59,14 +59,14 @@ currently:   "Building cool stuff"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Voide-Kali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voide-Kali&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Voide-Kali&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voide-Kali&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Voide-Kali&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Voide-Kali&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353)](https://git.io/streak-stats)
 
 </div>
 
@@ -74,6 +74,6 @@ currently:   "Building cool stuff"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2e,50:0d2818,100:0d1117&height=120&section=footer"/>
 
 </div>
